@@ -8,7 +8,7 @@ Hello my name is Thierry and i'm a student at HETIC.
 
 <br>
 
-[instagram](https://www.instagram.com/nangaim.nd/) - [Twitter](https://twitter.com/MgnThierry)
+[Instagram](https://www.instagram.com/nangaim.nd/) - [Twitter](https://twitter.com/MgnThierry) - [Linkedin](https://www.linkedin.com/in/thierry-maignan-33b044226/)
 
  
 
