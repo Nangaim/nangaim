@@ -1,5 +1,5 @@
 # Welcome to my github !
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nangaim&layout=compact">
+<img width="43%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nangaim&layout=compact">
 <img src="https://c.tenor.com/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif" alt="gif-penguin" width="200"> 
 
 
